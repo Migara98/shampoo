@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regg Shampoos for Dogs & Cats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 300px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        img {
+            width: 80%; /* Reduced image size */
+            height: auto;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            display: block;
+            margin: auto;
+        }
+        h1, h2, p {
+            color: #333;
+        }
+        .price {
+            font-size: 1.5em;
+            color: #d9534f;
+            margin: 10px 0;
+        }
+        .buy-button {
+            display: inline-block;
+            background-color: #ff6600;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        .buy-button:hover {
+            background-color: #e65c00;
+        }
+        .product {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Regg Shampoos for Dogs & Cats</h1>
+        <div class="product">
+            <h2>Regg Pink Shampoo</h2>
+            <img src="C:\Users\Migara Methsara\Desktop\pic\web\pink1.jpg" alt="Regg Pink Shampoo">
+            <p>pH 5.5 - 7.5 shampoo formulated for dogs and cats. Anti-fungal, anti-dandruff, and anti-parasitic formula enriched with Vitamin E, Biotin, and D-Panthenol.</p>
+            <p>Usage: Wet animal's hair, apply shampoo, leave for 5 minutes, then rinse thoroughly. Use 2-4 times a week as needed.</p>
+            <p>Volume: 200ml</p>
+            <div class="price">Price: Rs.900</div>
+			<a href="https://wa.me/94752759428?text=I'm%20interested%20in%20Regg%20Pink%20Shampoo" class="buy-button" target="_blank">Order on WhatsApp</a>
+
+        </div>
+        <div class="product">
+            <h2>Regg Yellow Shampoo</h2>
+            <img src="C:\Users\Migara Methsara\Desktop\pic\web\yellow1.jpg" alt="Regg Yellow Shampoo">
+            <p>pH 5.5 - 7.5 shampoo for dogs and cats. Anti-fungal, anti-dandruff, anti-parasitic formula with a fresh fragrance to maintain pet hygiene and health.</p>
+            <p>Usage: Wet animal's hair, apply shampoo, leave for 5 minutes, then rinse thoroughly. Use as needed.</p>
+            <p>Volume: 200ml</p>
+            <div class="price">Price: Rs.800</div>
+			<a href="https://wa.me/94752759428?text=I'm%20interested%20in%20Regg%20Yellow%20Shampoo" class="buy-button" target="_blank">Order on WhatsApp</a>
+
+        </div>
+        <div class="product">
+            <h2>Regg Green Shampoo</h2>
+            <img src="C:\Users\Migara Methsara\Desktop\pic\web\green1.jpg" alt="Regg Green Shampoo">
+            <p>pH 5.5 - 7.5 shampoo for dogs and cats. Effective against ticks, fleas, and lice while providing a gentle cleaning experience.</p>
+            <p>Usage: Wet animal's hair, apply shampoo, leave for 5 minutes, then rinse thoroughly. Use as needed.</p>
+            <p>Volume: 200ml</p>
+            <div class="price">Price: Rs.1000</div>
+			<a href="https://wa.me/94752759428?text=I'm%20interested%20in%20Regg%20Green%20Shampoo" class="buy-button" target="_blank">Order on WhatsApp</a>
+
+        </div>
+    </div>
+</body>
+</html>
